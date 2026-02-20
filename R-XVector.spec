@@ -3,7 +3,7 @@
 Summary:	Representation and manpulation of external sequences
 Name:		R-%{packname}
 Version:	0.2.0
-Release:	2
+Release:	3
 License:	Artistic 2.0
 Group:		Applications/Math
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
