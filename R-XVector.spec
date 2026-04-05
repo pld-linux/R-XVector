@@ -2,13 +2,13 @@
 
 Summary:	Representation and manpulation of external sequences
 Name:		R-%{packname}
-Version:	0.2.0
-Release:	3
+Version:	0.50.0
+Release:	1
 License:	Artistic 2.0
 Group:		Applications/Math
-Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	d5c6799b09b67f1fa5942ed6d60e5452
-URL:		http://www.bioconductor.org/packages/release/bioc/html/XVector.html
+Source0:	https://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
+# Source0-md5:	929b5a997ee6325853057c28ca3df77d
+URL:		https://bioconductor.org/packages/release/bioc/html/XVector.html
 BuildRequires:	R
 BuildRequires:	R-BiocGenerics
 BuildRequires:	R-IRanges-devel >= 1.19.36
